@@ -1,5 +1,27 @@
 #contrastpic {
     width: 100%;
-    height: 360px;
+    height: 380px;
+    border-radius: 3%;
+
+}
+
+#comidas-pics {
+    width: 200px;
+    height: auto;
+    border-radius: 10%;
+}
+
+#entertainment-pics {
+    width: 200px;
+    height: 225px;
+    border-radius: 10%;
+}
+
+#descrição {
+    
+}
+
+.boxXD {
+    margin-left: 50px;
 
 }
