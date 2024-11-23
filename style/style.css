@@ -5,10 +5,25 @@
 
 }
 
+#perfil{
+    width: 280px;
+        height: 269px;
+            border: 2px solid rgb(179, 153, 7);
+            border-radius: 100%;
+
+}
+
+#descrição{ ]
+    width: 932px;
+        height: 72px;
+            
+}
+
 #comidas-pics {
     width: 200px;
     height: auto;
     border-radius: 10%;
+    
 }
 
 #entertainment-pics {
@@ -16,12 +31,6 @@
     height: 225px;
     border-radius: 10%;
 }
-
-#descrição {
-    
-}
-
 .boxXD {
-    margin-left: 50px;
-
+    margin-left: 50px;    
 }
