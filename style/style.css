@@ -1,10 +1,8 @@
 #contrastpic {
     width: 100%;
         height: 300px;
-        border-radius: 5%;
-                box-shadow: 10px 15px 20px grey;
+            box-shadow: 10px 15px 20px rgba(0, 0, 0, 0.438);
 }
-
 
 #descricao{ 
     width: 800px;           
@@ -17,8 +15,10 @@
             border: 2px solid #f5f5f5;
                 border-radius: 50%;
                     margin-top: 20px;
-                        filter: drop-shadow(1px 1px 20px rgba(206, 104, 86, 0.973));
-    
+                        filter: drop-shadow(1px 1px 20px rgba(12, 104, 190, 0.973));
+                            background-color: rgba(157, 174, 190, 0.356);
+                                margin-left: 33%;
+                                    box-shadow: 10px 15px 20px rgba(0, 0, 0, 0.438);
 }
 
 #secao-apresentacao {
@@ -40,15 +40,18 @@
 .normal-pics {
     width: 230px;
         height: 207px;
-            border-radius: 10%;
-                margin-left: 10px;
+            margin-left: 10px;
 }
 
 .boxtexto {
-    margin-left: 50px;    
+    margin-left: 25px;    
 }
 
 .boxpics {
-    background-color: #0f131c;
-        padding: 12px;
+    width: 64.34%;
+        background-color: #0f131c;
+            padding: 12px;
+                display: flex;
+                    margin-left: 25px;
+                        height: auto;
 }
